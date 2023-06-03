@@ -25,7 +25,7 @@ function App() {
     <h1>Play with HTML, CSS and JavaScript</h1>
     <p>Edit the HTML, CSS and JavaScript files in the code editor below and see the preview on the left update automatically.</p>
     <p>Use the tabs at the top of the editor to switch between the HTML, CSS and JavaScript files.</p>
-    <p>Powered by <a href="https://sandpack.codesandbox.io/">Sandpack</a></p>
+    <p>Powered by <a href="https://sandpack.codesandbox.io/">Sandpack</a>. See <a href="https://github.com/larryhudson/sandpack-simple">source code on GitHub</a>.</p>
 
     <SandpackProvider
     files={files} 
