@@ -24,7 +24,7 @@ function App() {
     <>
     <h1>Play with HTML, CSS and JavaScript</h1>
     <p>Edit the HTML, CSS and JavaScript files in the code editor below and see the preview update automatically.</p>
-    <p>Powered by <a href="https://sandpack.codesandbox.io/">Sandpack</a>.</p>
+    <p>Powered by <a href="https://sandpack.codesandbox.io/">Sandpack</a></p>
 
     <SandpackProvider
     files={files} 
@@ -32,7 +32,6 @@ function App() {
     template="static"
     >
     <SandpackLayout>
-      <SandpackFileExplorer />
       <SandpackCodeEditor closableTabs showTabs  />
       <SandpackPreview />
     </SandpackLayout>
