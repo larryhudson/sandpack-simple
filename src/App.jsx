@@ -9,7 +9,7 @@ function App() {
 <html>
 
 <head>
-  <title>Parcel Sandbox</title>
+  <title>Play with HTML, CSS and JavaScript</title>
   <meta charset="UTF-8" />
   <link rel="stylesheet" href="/styles.css" />
   <script src="/script.js"></script>
