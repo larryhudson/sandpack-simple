@@ -29,7 +29,7 @@ function App() {
 
     <SandpackProvider
     files={files} 
-    theme="light" 
+    theme="dark" 
     template="static"
     >
     <SandpackLayout>

@@ -40,6 +40,10 @@
   color: #888;
 }
 
+@media (min-width: 992px) {
+
 .sp-layout, .sp-editor {
   --sp-layout-height: 600px;
+}
+
 }
