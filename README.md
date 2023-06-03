@@ -6,7 +6,7 @@ This is a simple web app that lets you play with HTML, CSS and JavaScript with i
 
 I'd like to explore how this can be used to make interactive code challenges for beginner web devs.
 
-You can view the demo here: (insert demo link here). 
+You can view the demo here: [https://sandpack-simple.vercel.app/](https://sandpack-simple.vercel.app/) 
 
 To get up and running:
 - `git clone` this repo
